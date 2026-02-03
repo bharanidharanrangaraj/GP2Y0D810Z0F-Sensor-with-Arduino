@@ -1,5 +1,3 @@
-
-
 # GP2Y0D810Z0F Distance Sensor Interfacing with Arduino UNO
 
 <p align="center">
@@ -135,10 +133,12 @@ void loop() {
 
 Interfacing the GP2Y0D810Z0F proximity sensor with Arduino UNO provides a simple and reliable way to detect nearby objects. The digital output makes programming easy and eliminates the need for complex calculations. This project serves as a strong foundation for robotics, automation, and contactless detection systems.
 
+The detailed tutorial is uploaded in CircuitDigest website under [Interfacing GP2Y0D80Z0F Distance Sensor with Arduino Uno](https://circuitdigest.com/microcontroller-projects/interfacing-gp2y0d80z0f-distance-sensor-with-arduino-uno).
+
+For more exciting projects, tutorials, and circuit ideas, visit [CircuitDigest](https://www.circuitdigest.com)
+
 ---
 
-Developed with ❤️ by the Circuit Digest Community. 
-
-For more exciting projects, tutorials, and circuit ideas, visit [Circuit Digest](https://www.circuitdigest.com)
+Developed with ❤️ by the Circuit Digest Community.
 
 If this project helped you learn something new, give it a ⭐ and share it with fellow makers. Keep building, keep learning! 🚀
